@@ -1,0 +1,43 @@
+@import "~bootstrap/scss/bootstrap";
+
+
+#form1{
+  margin-left:200px;
+}
+.side-nav li a {
+  text-decoration:none;
+}
+#searchResults2{
+  background-color:#666666;
+}
+#searchResults{
+  background-color:#666666;
+}
+.right li a{
+  padding-right:2em;
+  text-decoration:none
+}
+
+.myforminline {
+	display: flex;
+    -ms-flex-flow: row wrap;
+    -ms-flex-align: center;
+    align-items: center;
+	flex-flow: none!important;
+}
+
+table.text-center.custom > thead > tr > th {
+  border:1px solid black;
+} 
+
+.ct-chart {
+  height: 200px;
+}
+
+div#footer {
+  margin-top: 50px;
+}
+
+footer {
+  background-color: #32373e;
+}
